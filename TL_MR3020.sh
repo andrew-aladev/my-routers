@@ -8,5 +8,5 @@ nano \
 usb-modeswitch usb-modeswitch-data \
 comgt \
 kmod-usb-ohci kmod-usb-serial kmod-usb-serial-option kmod-usb-serial-wwan \
--dropbear openssh-server openssh-sftp-server \
+-dropbear openssh-server openssh-sftp-server openssh-client \
 "
