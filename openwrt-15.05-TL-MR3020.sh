@@ -2,7 +2,6 @@
 
 make image PROFILE="TLMR3020" PACKAGES=" \
 -opkg \
--ppp \
 -ppp-mod-pppoe \
 sudo \
 usb-modeswitch \
