@@ -6,6 +6,5 @@ make image PROFILE="TLWA901" PACKAGES=" \
 -ppp-mod-pppoe \
 sudo \
 openvpn-polarssl \
-nano \
 libcurl \
 "
