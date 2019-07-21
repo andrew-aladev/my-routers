@@ -2,6 +2,7 @@
 
 make image PROFILE="gl-ar150" PACKAGES=" \
 -opkg \
+-ppp \
 -ppp-mod-pppoe \
 sudo \
 usb-modeswitch \
