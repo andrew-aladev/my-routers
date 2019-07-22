@@ -2,7 +2,6 @@
 
 make image PROFILE="tl-mr3020-v1" PACKAGES=" \
 -opkg \
--ppp \
 -ppp-mod-pppoe \
 usb-modeswitch \
 comgt \
