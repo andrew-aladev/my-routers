@@ -8,5 +8,5 @@ kmod-usb-ohci kmod-usb-serial kmod-usb-serial-option kmod-usb-serial-wwan \
 kmod-usb-net \
 kmod-usb-net-huawei-cdc-ncm \
 openssh-sftp-server openvpn-openssl stunnel \
-sudo nano \
+sudo nano shadow-useradd \
 "
